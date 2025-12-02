@@ -1,4 +1,3 @@
 
   # Church Website Design Sample
 
-  
